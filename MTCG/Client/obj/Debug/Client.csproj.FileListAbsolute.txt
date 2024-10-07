@@ -1,0 +1,15 @@
+C:\Users\mac\Desktop\C#\lian\MTCG\MTCG\Client\bin\Debug\Client.exe.config
+C:\Users\mac\Desktop\C#\lian\MTCG\MTCG\Client\bin\Debug\Client.exe
+C:\Users\mac\Desktop\C#\lian\MTCG\MTCG\Client\bin\Debug\Client.pdb
+C:\Users\mac\Desktop\C#\lian\MTCG\MTCG\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\mac\Desktop\C#\lian\MTCG\MTCG\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\mac\Desktop\C#\lian\MTCG\MTCG\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\mac\Desktop\C#\lian\MTCG\MTCG\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\mac\Desktop\C#\lian\MTCG\MTCG\Client\obj\Debug\Client.exe
+C:\Users\mac\Desktop\C#\lian\MTCG\MTCG\Client\obj\Debug\Client.pdb
+C:\Users\mac\Desktop\C#\lian\MTCG\MTCG\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mac\Desktop\C#\lian\MTCG\MTCG\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mac\Desktop\C#\lian\MTCG\MTCG\Client\obj\Debug\Client.frmLogin.resources
+C:\Users\mac\Desktop\C#\lian\MTCG\MTCG\Client\obj\Debug\Client.csproj.Up2Date
+C:\Users\mac\Desktop\C#\lian\MTCG\MTCG\Client\obj\Debug\Client.FormMain.resources
+C:\Users\mac\Desktop\C#\lian\MTCG\MTCG\Client\obj\Debug\Client.FormRegister.resources

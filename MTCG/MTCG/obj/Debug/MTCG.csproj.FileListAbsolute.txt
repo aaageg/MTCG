@@ -1,0 +1,10 @@
+C:\Users\mac\Desktop\C#\lian\MTCG\MTCG\MTCG\bin\Debug\MTCG.exe.config
+C:\Users\mac\Desktop\C#\lian\MTCG\MTCG\MTCG\bin\Debug\MTCG.exe
+C:\Users\mac\Desktop\C#\lian\MTCG\MTCG\MTCG\bin\Debug\MTCG.pdb
+C:\Users\mac\Desktop\C#\lian\MTCG\MTCG\MTCG\obj\Debug\MTCG.csproj.AssemblyReference.cache
+C:\Users\mac\Desktop\C#\lian\MTCG\MTCG\MTCG\obj\Debug\MTCG.csproj.CoreCompileInputs.cache
+C:\Users\mac\Desktop\C#\lian\MTCG\MTCG\MTCG\obj\Debug\MTCG.exe
+C:\Users\mac\Desktop\C#\lian\MTCG\MTCG\MTCG\obj\Debug\MTCG.pdb
+C:\Users\mac\Desktop\C#\lian\MTCG\MTCG\MTCG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mac\Desktop\C#\lian\MTCG\MTCG\MTCG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mac\Desktop\C#\lian\MTCG\MTCG\MTCG\obj\Debug\MTCG.csproj.Up2Date

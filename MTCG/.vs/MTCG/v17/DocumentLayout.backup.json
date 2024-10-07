@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mac\\Desktop\\C#\\lian\\MTCG\\MTCG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{965CEC5B-CDE7-45F5-9344-03B450BF08E8}|Client\\Client.csproj|c:\\users\\mac\\desktop\\c#\\lian\\mtcg\\mtcg\\client\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965CEC5B-CDE7-45F5-9344-03B450BF08E8}|Client\\Client.csproj|solutionrelative:client\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965CEC5B-CDE7-45F5-9344-03B450BF08E8}|Client\\Client.csproj|c:\\users\\mac\\desktop\\c#\\lian\\mtcg\\mtcg\\client\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{965CEC5B-CDE7-45F5-9344-03B450BF08E8}|Client\\Client.csproj|solutionrelative:client\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965CEC5B-CDE7-45F5-9344-03B450BF08E8}|Client\\Client.csproj|C:\\Users\\mac\\Desktop\\C#\\lian\\MTCG\\MTCG\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{965CEC5B-CDE7-45F5-9344-03B450BF08E8}|Client\\Client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965CEC5B-CDE7-45F5-9344-03B450BF08E8}|Client\\Client.csproj|C:\\Users\\mac\\Desktop\\C#\\lian\\MTCG\\MTCG\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965CEC5B-CDE7-45F5-9344-03B450BF08E8}|Client\\Client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\C#\\lian\\MTCG\\MTCG\\Client\\FormMain.cs",
+              "RelativeDocumentMoniker": "Client\\FormMain.cs",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\C#\\lian\\MTCG\\MTCG\\Client\\FormMain.cs",
+              "RelativeToolTip": "Client\\FormMain.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:14:05.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\C#\\lian\\MTCG\\MTCG\\Client\\FormMain.cs",
+              "RelativeDocumentMoniker": "Client\\FormMain.cs",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\C#\\lian\\MTCG\\MTCG\\Client\\FormMain.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Client\\FormMain.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:14:00.744Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\C#\\lian\\MTCG\\MTCG\\Client\\Form1.cs",
+              "RelativeDocumentMoniker": "Client\\Form1.cs",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\C#\\lian\\MTCG\\MTCG\\Client\\Form1.cs",
+              "RelativeToolTip": "Client\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T20:56:21.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\C#\\lian\\MTCG\\MTCG\\Client\\Form1.cs",
+              "RelativeDocumentMoniker": "Client\\Form1.cs",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\C#\\lian\\MTCG\\MTCG\\Client\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Client\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T20:39:11.302Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
